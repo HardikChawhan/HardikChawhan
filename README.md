@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year engineering student at Vishwakarma University having a CGPA of 9.1<br>My area of interest is backend development, mobile app development, problem-solving, fixing bugs, open source contributions and building in public.<br>Worked on project like -<br>1) Prototype of a Cinema ticket booking system<br>2) Created an Password Generator App using React Native<br>Currently Working under Vishwakarma University to build Industry Level Projects.
+Second year engineering student at Vishwakarma University having a CGPA of 9.45<br>My area of interest is backend development, mobile app development, problem-solving, fixing bugs, open source contributions and building in public.<br>Worked on project like -<br>1) Prototype of a Cinema ticket booking system<br>2) Created an Password Generator App using React Native<br>Currently Working under Vishwakarma University to build Industry Level Projects.
 
 
 ## 🌐 Socials:
