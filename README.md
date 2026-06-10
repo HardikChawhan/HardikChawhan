@@ -1,5 +1,8 @@
 # 💫 About Me:
-Third year engineering student at Vishwakarma University having a CGPA of 9.1<br>My area of interest is backend development, mobile app development, problem-solving, fixing bugs, open source contributions and building in public.<br>Worked on project like -<br>1) Secure Ticket Scanning App made in React Native and backend in Node.js<br>2)IBM Cloud AI powered nutritionist that helps you in your fitness journey
+Full-Stack Developer and React Native Engineer with production experience shipping AI-powered mobile apps, RESTful APIs, and scalable 
+web platforms. Proficient in JavaScript, TypeScript, Node.js, React.js, React Native, MongoDB, SQL, and AWS (Lambda, EC2, API Gateway). 
+Skilled in security hardening (SQL injection, XSS, DDoS, MITM), performance optimization, and CI/CD-aligned deployment using PM2 and 
+Nginx. Nationally recognized through Google Developer Group hackathons for building innovative AI-driven solutions. 
 
 
 ## 🌐 Socials:
